@@ -1,2 +1,2 @@
 # music_aoa_estimation_py
-MUSIC algorithm Angle of Arrival estimation parametric analysis in Python
+Parametric analysis of MUSIC algorithm for Angle of Arrival estimation in Python
